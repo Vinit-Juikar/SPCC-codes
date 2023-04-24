@@ -1,3 +1,5 @@
+// code movement in code optimization
+
 #include <iostream>
 int compute(int a, int b, int c, int d)
 {

@@ -1,3 +1,5 @@
+// display mnt and mdt
+
 #include <iostream>
 #include <fstream>
 #include <string>

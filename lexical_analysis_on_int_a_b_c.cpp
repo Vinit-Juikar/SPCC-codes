@@ -1,3 +1,5 @@
+// lexical analysis on int a, b, c
+
 #include <iostream>
 #include <string>
 #include <vector>
